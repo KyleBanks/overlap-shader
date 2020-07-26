@@ -24,4 +24,6 @@ Material:
     m_Colors:
     - Color_14EDCBA7: {r: 0, g: 0, b: 0, a: 0}
     - Color_A7D47A3C: {r: 0, g: 1, b: 0.04878044, a: 0}
+    - _Albedo: {r: 0, g: 0, b: 0, a: 0}
+    - _OverlapColor: {r: 0.11816931, g: 1, b: 0, a: 1}
   m_BuildTextureStacks: []
